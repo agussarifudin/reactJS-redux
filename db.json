@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "agus",
+      "alamat": "Jambi",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 2,
+      "nama": "Lea",
+      "alamat": "Jakarta",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 3,
+      "nama": "Nua",
+      "alamat": "Zohor",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 4,
+      "nama": "Ops",
+      "alamat": "Test",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 5,
+      "nama": "Tale",
+      "alamat": "Kamppung",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 6,
+      "nama": "Lea",
+      "alamat": "Jakarta",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 7,
+      "nama": "Nua",
+      "alamat": "Zohor",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 8,
+      "nama": "Ops",
+      "alamat": "Test",
+      "umur": 11,
+      "nohp": 1111111
+    },
+    {
+      "id": 9,
+      "nama": "Tale",
+      "alamat": "Kamppung",
+      "umur": 11,
+      "nohp": 1111111
+    }
+  ]
+}
